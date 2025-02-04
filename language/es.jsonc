@@ -65,7 +65,7 @@
 
     // Softkey labels for sending an attachment in the currently open channel.
     "Subir",
-    "Subir un archivo",
+    "Subir archivo",
 
     // Softkey labels for copying the text content of the selected message.
     "Copiar",
@@ -80,8 +80,8 @@
     "Eliminar",
 
     // Softkey labels for selecting an URL in the selected message. This opens a screen where each URL found in the message is listed, and one can be selected to be opened in the device's browser.
-    "Abrir enlace",
-    "Abrir enlace",
+    "Ir a",
+    "Ir a enlace",
 
     // Channel view title suffix when reading older messages.
     " (antiguos)",
@@ -247,11 +247,11 @@
     // Names of hotkey actions shown in the key mapper.
     // These are shown after the "Press the key to use for:" string.
     // "going back" only applies to the chat view, 
-    "enviar un mensaje",
-    "responder un mensaje",
-    "copiar contenido de un mensaje ",
-    "recargar mensajes",
-    "volver",
+    "Enviar mensaje",
+    "Responder mensaje",
+    "Copiar mensaje ",
+    "Recargar mensajes",
+    "Volver",
 
     // Error message prefix shown when a key has been mapped to an action and the user tried to map the same key to another action. The name of the already mapped action (see above) is written after this prefix.
     "Esta tecla ya esta asignada para ",
@@ -275,7 +275,7 @@
     "Token",
 
     // Softkey label for confirming the login options in the login screen.
-    "Iniciar sesión",
+    "Acceder",
     "Iniciar sesión",
 
     // Softkey command for exiting the application.
@@ -517,11 +517,11 @@
 
     // Softkey commands for toggling fullscreen mode in the chat view.
     "Pantalla completa",
-    "Cambiar pantalla completa",
+    "Cambiar a pantalla completa",
 
     // Hotkey action for toggling fullscreen mode in the chat view. Shown in the key mapper.
     // Related to "Names of hotkey actions shown in the key mapper" above.
-    "Cambiar pantalla completa",
+    "Cambiar a pantalla completa",
 
     // Settings option for enabling fullscreen mode by default in the chat view.
     "Modo pantalla completa",
@@ -768,5 +768,5 @@
     "Insertar guion bajo",
 
     // Related to "Lines shown in the about (credits) screen for what each developer" above.
-    "Notification sound"
+    "Sonido de Notificación"
 ]
